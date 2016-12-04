@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">HalıSaham</string>
+    <string name="title_oturumac">HalıSaham</string>
+
+    <!-- Strings related to login -->
+    <string name="email">E-posta</string>
+    <string name="password">Şifre</string>
+    <string name="girisyapaktivitesi">Oturum Aç</string>
+    <string name="girisyap">Oturum Aç</string>
+    <string name="emailerror">E-posta adresi geçersiz</string>
+    <string name="sifrekısa">Parola çok kısa</string>
+    <string name="sifreerror">Şifre adresi geçersiz</string>
+    <string name="alanzorunlu">Bu alana giriş zorunludur</string>
+    <string name="eslesme">Şifreler eşleşmiyor</string>
+    <string name="title_activity_menu">Menu</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Ayarlar</string>
+    <string name="title_activity_kullanici_menu">Menü</string>
+
+</resources>

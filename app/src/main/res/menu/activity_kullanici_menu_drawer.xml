@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/kira"
+            android:icon="@drawable/kiralama_gecmisi"
+            android:title="Kiralama Geçmişim"
+            />
+        <item
+            android:id="@+id/halisaha"
+            android:icon="@drawable/ic_crop_7_5_black_24dp"
+            android:title="Halı Saha Kirala" />
+
+
+        <item
+            android:id="@+id/oyla"
+            android:icon="@drawable/ic_thumb_up_black_24dp"
+            android:title="Uygulamayı Oyla" />
+        <item
+            android:id="@+id/infor"
+            android:icon="@drawable/ic_info_black_24dp"
+            android:title="Hakkımzıda" />
+        <item
+            android:id="@+id/cikis"
+            android:icon="@drawable/cikis_yap"
+            android:title="Çıkış Yap" />
+</group>
+    </menu>
+
+
